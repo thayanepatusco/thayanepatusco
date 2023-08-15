@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thayanepatusco
+- 👋 Hi, I’m Thay!
 - 👀 I’m interested in Biology and Tech
 - 🌱 I’m currently learning R Program, Power BI, Python and CSS
 - 💞️ I’m looking to collaborate on Programming in Python applied to Biology Problems
