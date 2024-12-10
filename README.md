@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thay!
+- 👋 Hi, I’m Thayane!
 - 👀 I’m interested in Biology and Tech
 - 🌱 I’m currently learning R Program, Power BI, Python and CSS
 - 💞️ I’m looking to collaborate on Programming in Python applied to Biology Problems
